@@ -11,4 +11,5 @@ In order to provide a concise and clear result for the users, we first need to u
 ![image](https://github.com/user-attachments/assets/240491c5-8b62-46d0-96f6-289d78198a2b)
 
 Figure 1: Web Application Architecture
+
 The scope of our project is to provide suggestions about an option on the stock at its expiration date. 
